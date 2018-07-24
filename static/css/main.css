@@ -10,7 +10,7 @@ body {
  */
 
 header {
-  background-color: #FFFF00;
+  background-color: #DFB887;
   /*#FFFF00 ; #DFB887*/
   height: 35px;
   width: 100%;
@@ -42,7 +42,7 @@ header h1.logo:hover {
 
 div.home {
   padding: 10px 0 30px 0;
-  background-color: #FFFF00;
+  background-color: #DFB887;
   -webkit-border-radius: 6px;
      -moz-border-radius: 6px;
           border-radius: 6px;
