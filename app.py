@@ -1,6 +1,6 @@
 from flask import flask, render_template
 
-app=Flask(__name__)
+app=flask(__name__)
 
 @app.route('/')
 def home():
