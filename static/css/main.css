@@ -10,7 +10,8 @@ body {
  */
 
 header {
-  background-color: #DFB887;
+  background-color: #FFFF00;
+  /*#FFFF00 ; #DFB887*/
   height: 35px;
   width: 100%;
   opacity: .9;
